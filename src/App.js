@@ -9,7 +9,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<UserTable />} />
-
         <Route path="/edit/:id" element={<UserUpDate />} />
       </Routes>
     </BrowserRouter>
