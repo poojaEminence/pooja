@@ -1,0 +1,46 @@
+{
+  "event": [
+    {
+      "id": 1,
+      "company": "navi",
+      "ticker": "TWTR",
+      "stockPrice": "22.76 USD",
+      "timeElapsed": "5 sec ago"
+    },
+    {
+      "id": 3,
+      "company": "Square Inc",
+      "ticker": "uo",
+      "stockPrice": "45.28 USD",
+      "timeElapsed": "10 sec ago"
+    },
+    {
+      "id": 4,
+      "company": "Square Inc",
+      "ticker": "uo",
+      "stockPrice": "45.28 USD",
+      "timeElapsed": "10 sec ago"
+    },
+    {
+      "id": 5,
+      "company": "Square Inc",
+      "ticker": "uo",
+      "stockPrice": "45.28 USD",
+      "timeElapsed": "10 sec ago"
+    },
+    {
+      "id": 6,
+      "company": "Square Inc",
+      "ticker": "uo",
+      "stockPrice": "45.28 USD",
+      "timeElapsed": "10 sec ago"
+    },
+    {
+      "id": 7,
+      "company": "Square Inc",
+      "ticker": "uo",
+      "stockPrice": "45.28 USD",
+      "timeElapsed": "10 sec ago"
+    }
+  ]
+}
